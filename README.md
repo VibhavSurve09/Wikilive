@@ -56,3 +56,5 @@ This dashboard is ideal for:
 - Monitoring real-time Wikipedia activity  
 - Detecting bot overuse or malicious edit behavior  
 - Understanding editorial trends  
+
+![alt text](image.png)
